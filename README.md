@@ -1,2 +1,2 @@
 # Unified-Customer-Transaction-Analysis-and-Enrichment-System-
-This project involves transforming transactional data through rigorous Data Munging and Cleansing to handle missing values and format inconsistencies. 
+The project focuses on the transformation of transactional data through comprehensive data cleaning and refinement processes. This involves addressing missing values and correcting formatting issues. The data is then enriched with date transformations and additional enhancements. The final stage involves data curation to ensure the datasets are reliable and well-suited for analytical purposes. Leveraging Apache Spark, the project performs advanced SQL operations, handling large-scale datasets efficiently.
